@@ -30,6 +30,12 @@ There are many jobs out there but the one I am searching for has to be in a good
 
 #
 
+### Stats and other discardables
+
+![Slav's GitHub stats](https://github-readme-stats.vercel.app/api?username=triangletrianglesquareplusx&show_icons=true&theme=cobalt)
+
+#
+
 ### Reach me
 
 I always respond at my [email](mailto:preslavgetov@gmail.com)
