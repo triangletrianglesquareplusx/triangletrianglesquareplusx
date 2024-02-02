@@ -1,4 +1,4 @@
-# Hi :bowtie:, my name is Preslav
+# Hi <p align="center">:bowtie:</p>, my name is Preslav
 
 **`Constant Do-er (Learning/Creating/Filmmaking)`**
 
