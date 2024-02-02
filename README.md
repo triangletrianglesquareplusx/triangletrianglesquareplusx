@@ -22,7 +22,7 @@ There are many jobs out there but the one I am searching for has to be in a good
 
 #
 
-## Tech I will learn this year
+### Tech I will learn this year
 
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
