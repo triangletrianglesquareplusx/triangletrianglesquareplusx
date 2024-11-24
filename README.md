@@ -1,7 +1,5 @@
 # Hi, my name is Preslav 👋
 
-**`Constant Do-er (Learning/Creating/Filmmaking)`**
-
 Websites are merely tools in the toolbox of a creator. Content is king.
 
 ---
